@@ -3,6 +3,7 @@
 	"description": "Managing packages in FCC Backend",
 	"keywords": ["freecodecamp", "Backend", "NPM"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
