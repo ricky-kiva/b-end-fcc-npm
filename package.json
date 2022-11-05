@@ -1,7 +1,7 @@
 {
 	"author": "Kathlyn Lenz",
 	"description": "Managing packages in FCC Backend",
-	"keywords": ["FCC", "Backend", "NPM"],
+	"keywords": ["freecodecamp", "Backend", "NPM"],
 	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
