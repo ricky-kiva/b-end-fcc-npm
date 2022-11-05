@@ -1,6 +1,7 @@
 {
 	"author": "Kathlyn Lenz",
 	"description": "Managing packages in FCC Backend",
+	"keywords": ["FCC", "Backend", "NPM"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
