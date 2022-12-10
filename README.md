@@ -7,4 +7,4 @@ Exploratory. Managing npm packages & some configuration on `package.json`. Manag
   - version
   - dependencies (list of npm packages & needed version)
 
-Link to the code: [![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://b-end-fcc-npm.ricky-kiva.repl.co)
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://b-end-fcc-npm.ricky-kiva.repl.co)
